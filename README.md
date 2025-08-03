@@ -2,6 +2,8 @@
 
 ![LIM2025](LIMlogo.png)
 
+Reflectance Transformation Imaging (RTI), a non-destructive imaging technique, captures data rich in geometric and appearance information. However, it has traditionally been limited to relighting. We demonstrate RTI's expanded potential through analysis of the Oseberg textiles, degraded and fragmented archaeological artifacts that present analysis challenges under conventional imaging methods. We present feature maps by applying statistical and geometric analysis to RTI data and a visualization tool. The computational analysis of RTI data can reveal textile characteristics that remain obscured under traditional photography. 
+
 This repository contains code and supplementary material for the conference paper "RTI beyond relighting: Image analysis for archaeological Oseberg textiles" presented at London Imaging Meeting 2025.
 
 ## Code
