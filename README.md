@@ -11,7 +11,7 @@ This repository contains code and supplementary material for the conference pape
 ## Dataset
  The Oseberg textile collection contains many fragments, out of which some are highly degraded, without discernible motifs. Therefore, to demonstrate the effectiveness of RTI in textile analyses as a proof of concept, we picked a fragment named 1D (TexRec naming criteria) that still enables us to discern patterns and motifs to a certain extent. The dataset of 50 images (JPEG format, 6240 × 4160) was captured using RTI dome and  Fujifilm X-T4 digital camera.
 
- 
+ ![Dataset](V1D_50_compressed.jpg)
 
 ## Statistical  and Geometric Analysis
 The theory and necessary background of statistical and geometric feature maps are explained in the supplementary material pdf in this repository. The statistical and geometric analysis is pixel-based.
