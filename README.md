@@ -21,12 +21,3 @@ The illumination variation data is classified according to their similar signal 
 
 ## Visualization Tool / Application
 The code can be compiled into a GUI and used in museums or by non-technical professionals in the cultural heritage field.
-
-
-
-
-TODO;
-1) Add Code
-2) Add LIM2025 Logo
-3) Add Project description
-4) Add prerequisites
