@@ -13,15 +13,15 @@ This repository contains code and supplementary material for the conference pape
 
  
 
-## Statistical Analysis
-
-## Geometric Analysis
+## Statistical  and Geometric Analysis
+The theory and necessary background of statistical and geometric feature maps are explained in the supplementary material pdf in this repository. The statistical and geometric analysis is pixel-based.
 
 ## Classification of reflectance response
+The illumination variation data is classified according to their similar signal and are clustered together. This algorithm uses Self Organizing Map (SOM) neural networks. Self-Organizing Maps (SOMs) are unsupervised neural networks that transform complex, high-dimensional data into simplified, grid-based representations while preserving the topological relationships between input patterns.
 
 ## Visualization Tool / Application
+The code can be compiled into a GUI and used in museums or by non-technical professionals in the cultural heritage field.
 
-## How to cite?
 
 
 
