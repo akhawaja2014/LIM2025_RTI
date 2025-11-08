@@ -28,7 +28,7 @@ This repository contains code and supplementary material for the conference pape
 ```
 ## Demo Video
 
-[![Watch the demo](demo_thumbnail.png)](ForLinkedin.mp4)
+[![Watch the demo](demo_thumbnail.png)](Linkedin_rotated.mp4)
 
 
 ## Dataset
