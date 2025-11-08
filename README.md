@@ -6,6 +6,7 @@ Reflectance Transformation Imaging (RTI), a non-destructive imaging technique, c
 
 This repository contains code and supplementary material for the conference paper "RTI beyond relighting: Image analysis for archaeological Oseberg textiles" presented at London Imaging Meeting 2025. If you want to cite the paper, here is the bibtex citation:
 
+``` bibtex
 @article{khawaja_rti_2025,
 	title = {{RTI} beyond relighting: {Image} analysis for archaeological {Oseberg} textiles},
 	volume = {3128},
@@ -24,7 +25,7 @@ This repository contains code and supplementary material for the conference pape
 	note = {Publisher: IOP Publishing},
 	pages = {012017},
 }
-
+```
 
 
 ## Dataset
