@@ -26,10 +26,6 @@ This repository contains code and supplementary material for the conference pape
 	pages = {012017},
 }
 ```
-## Demo Video
-
-[![Watch the demo](demo_thumbnail.png)](Linkedin_rotated.mp4)
-
 
 ## Dataset
  The Oseberg textile collection contains many fragments, out of which some are highly degraded, without discernible motifs. Therefore, to demonstrate the effectiveness of RTI in textile analyses as a proof of concept, we picked a fragment named 1D (TexRec naming criteria) that still enables us to discern patterns and motifs to a certain extent. The dataset of 50 images (JPEG format, 6240 × 4160) was captured using RTI dome and  Fujifilm X-T4 digital camera.
