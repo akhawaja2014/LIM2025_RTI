@@ -26,6 +26,9 @@ This repository contains code and supplementary material for the conference pape
 	pages = {012017},
 }
 ```
+## Demo Video
+
+[![Watch the demo](demo_thumbnail.png)](forLinkedin.mp4)
 
 
 ## Dataset
